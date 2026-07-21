@@ -6,8 +6,29 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/00_Scene_Bootstrap.unity
+    guid: 450cb45e03b0959429ce112ea92be9f9
+  - enabled: 1
+    path: Assets/Scenes/01_Scene_Classroom_Intro.unity
+    guid: 5a936ad0f6de9ab449f3279676fb4e77
+  - enabled: 1
+    path: Assets/Scenes/02_Scene_School_Corridor.unity
+    guid: 84352e2578d01c44dbd7a40c875e082c
+  - enabled: 1
+    path: Assets/Scenes/03_Scene_Computer_Lab.unity
+    guid: c6dfe9fa4570f804e88baf2454ffb20e
+  - enabled: 1
+    path: Assets/Scenes/04_Scene_Library.unity
+    guid: 2822a0c39257bb749af30e7d62cf5b2b
+  - enabled: 1
+    path: Assets/Scenes/05_Scene_School_Yard.unity
+    guid: c12723058b88eac4eb7753a5053d776c
+  - enabled: 1
+    path: Assets/Scenes/06_Scene_Rooftop_Final.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/07_Scene_Epilogue_RealWorld 1.unity
+    guid: a6db57932540a3e4c885fc52bfbe218e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
